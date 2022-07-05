@@ -1,0 +1,103 @@
+@media only screen and (max-width:340px) {
+    
+
+
+
+  .banner-img{
+
+    width: 50vh;
+    text-align: center;
+    
+  }
+
+.pls3{
+    width: 50vh;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+
+.lq1{
+   margin-top: -5rem;
+}
+
+.offer-area{
+    margin-top: -5rem;
+}
+
+.subscribe-area{
+    width: 90%;
+        margin-left: 1rem;
+}
+
+.faul{
+    margin-left: 7rem;
+}
+
+.lambo{
+    text-align: center;
+
+}
+.teto1{
+text-align: center;
+}
+
+
+
+
+}
+
+
+/*2nd*/
+
+@media only screen and (max-width:430px) {
+
+
+    .banner-img{
+
+        width: 40vh;
+        text-align: center;
+        
+      }
+
+      .pls3{
+        width: 40vh;
+        text-align: center;
+        margin-top: 2rem;
+    }
+
+    .lq1{
+        margin-top: -5rem;
+     }
+     
+     .offer-area{
+         margin-top: -5rem;
+     }
+
+     .subscribe-area{
+        width: 90%;
+            margin-left: 1rem;
+    }
+    
+    .faul{
+        margin-left: 7rem;
+    }
+
+    .lambo{
+        text-align: center;
+
+    }
+    .teto1{
+text-align: center;
+    }
+
+    .footer-area{
+        padding-bottom: 14rem;
+    }
+
+}
+
+
+
+
+
